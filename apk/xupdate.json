@@ -3,7 +3,7 @@
   "Msg": "", //请求出错的信息
   "UpdateStatus": 1, //0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
   "VersionCode": 1, //编译版本号(唯一)
-  "VersionName": "2.2.0", //版本名(用于展示)
+  "VersionName": "2.0.0", //版本名(用于展示)
   "ModifyContent": "1、优化api接口。\r\n2、添加使用demo演示。\r\n3、新增自定义更新服务API接口。\r\n4、优化更新提示界面。", //更新内容
   "DownloadUrl": "https://github.com/sstgithub527/eyeinseatest/blob/main/apk/app-release.apk",// 文件下载地址
   "ApkSize": 20480, //文件的大小(单位:kb)
