@@ -3,9 +3,9 @@
   "Msg": "", 
   "UpdateStatus": 1,
   "VersionCode": 3,
-  "VersionName": "2.3.2",
+  "VersionName": "2.5.2",
   "ModifyContent": "1、优化api接口。\r\n2、添加使用demo演示。\r\n3、新增自定义更新服务API接口。\r\n4、优化更新提示界面。",
-  "DownloadUrl": "https://raw.githubusercontent.com/xuexiangjys/XUpdate/master/apk/xupdate_demo_1.0.2.apk",
-  "ApkSize": 20480
+  "DownloadUrl": "https://github.com/sstgithub527/eyeinseatest/blob/main/apk/app-release.apk",
+  "ApkSize": 20480,
   "ApkMd5": "8eaa354c5f371733dfa05f9dd64c2f3f" 
 }
