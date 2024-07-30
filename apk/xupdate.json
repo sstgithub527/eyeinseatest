@@ -1,9 +1,10 @@
 {
-    "Code": 0, 
+  "Code": 0, 
   "Msg": "", 
   "UpdateStatus": 1, 
   "VersionCode": 1, 
   "VersionName": "2.5.0", 
   "ModifyContent": "1、优化api接口。\r\n2、添加使用demo演示。\r\n3、新增自定义更新服务API接口。\r\n4、优化更新提示界面。", 
   "DownloadUrl": "https://github.com/sstgithub527/eyeinseatest/blob/main/apk/app-release.apk",
+  "ApkSize": 20480,
   "ApkMd5": "ea9d16549802a1f1e99dce4ac77b3616" 
